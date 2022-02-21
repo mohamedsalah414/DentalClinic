@@ -1,16 +1,19 @@
-# dentalclinic
+# Dental Clinic
 
-A new Flutter project.
+### **GetX & Firebase**
 
-## Getting Started
+# I have a problem here that I can't get the current document id so, I pass id manually between screens
 
-This project is a starting point for a Flutter application.
+## screenshot from firestore
+![image](https://user-images.githubusercontent.com/36240402/154877008-ea80d1b4-6e1c-4129-8351-ec545abab051.png)
 
-A few resources to get you started if this is your first Flutter project:
+## screenshot from App
+![image](https://user-images.githubusercontent.com/36240402/154878316-a763d3d3-bf84-41e1-be54-f506bb54b8a5.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![image](https://user-images.githubusercontent.com/36240402/154878437-c7f89d04-d6e1-4db9-92a9-213db1a5672a.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/36240402/154878457-93e51e3d-c7bc-42f9-b4c2-cce1bcd082d0.png)
+
+![image](https://user-images.githubusercontent.com/36240402/154878498-5650199d-6618-4ce8-bf98-5a4d86c9e933.png)
+
+![image](https://user-images.githubusercontent.com/36240402/154878513-3225cd9f-5571-454d-9b39-253db4ac6912.png)
